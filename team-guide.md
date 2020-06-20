@@ -9,7 +9,7 @@
 
 ## 技术栈：
 
-1. Vue 全家桶 + Element UI 组件库（必选）
+1. Vue 全家桶 + iView Design + Element UI 组件库（必选）
 2. Less （必选）
 3. React + Material UI + Ant Design（推荐）
 4. Next.js（推荐）
@@ -40,7 +40,7 @@
 ## 近期项目：
 
 1. [AdsDesk](http://www.adsdesk.cn/)
-2. [Adinsight](http://www.adinsights.cn/#/)
+2. [AdInsight](http://www.adinsights.cn/#/)
 3. [热云官网](http://www.reyun.com/)
 4. [ARPPU](http://www.arppu.cn/)
 5. ASM

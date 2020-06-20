@@ -16,6 +16,10 @@
 - GitLens - 快速查看Commit提交记录
 - Git History - 查看Git 提交记录
 - Auto Import
+- Path Intellisense
+- JavaScript (ES6) code snippets
+- HTML Snippets
+- formate: CSS/LESS/SCSS formatter CSS 文件格式化
 - Auto Rename Tag - 快速修改HTML标签
 - Code Spell Checker - 告别单词拼写错误
 - IntelliSense for CSS class names in HTML - 智能推荐Class Name

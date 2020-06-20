@@ -19,13 +19,14 @@
 ## 分支简介
 
 - master（生产分支）
+- master-backup（生产分支-备份--防止被无意污染，每次发布生产之后需要及时更新）
 - pre（预发布分支，代码永远具备可发布生产环境的条件）
 - dev（开发分支，时刻保持代码具备发发布测试环境的条件）
-- feat-feature-name (新功能开发，应尽可能将功能点拆分）
-- fix-feature-name (bug修复)
+- feat-featureName (新功能开发，应尽可能将功能点拆分）
+- fix-bugId-featureName (bug修复)
 - test-feature-name (测试分支)
 
 ## 示例
 
-- `feature-login` (新功能分支，功能为`login`）
-- `fix-login` (`login bug`修复)
+- `feat-login` (新功能分支，功能为`login`）
+- `fix-1988-login` (1988为 BugId `login bug`修复)
